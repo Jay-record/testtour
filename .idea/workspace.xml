@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1cc97b8-fd4e-43d5-a5f4-c001090e4b99" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/testTous$TousLoginTest_everything.ic" NAME="TousLoginTest.everything Coverage Results" MODIFIED="1533729422882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.seidor.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/testTous$TestCheckout_paymentContraEntrega.ic" NAME="TestCheckout.paymentContraEntrega Coverage Results" MODIFIED="1555337259968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.seidor.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TousLoginTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TousLoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1241">
+              <caret line="79" column="69" selection-start-line="79" selection-start-column="69" selection-end-line="79" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestMethods.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2771">
+              <caret line="171" column="47" selection-start-line="171" selection-start-column="47" selection-end-line="171" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCheckout.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestCheckout.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestVerifyLinks.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestVerifyLinks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="18" column="115" selection-start-line="18" selection-start-column="115" selection-end-line="18" selection-end-column="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>404</find>
+      <find>exact error</find>
+      <find>cssselect</find>
+      <find>WebElement NotifyMeButton = webDriver.findElement(By.xpath(&quot;//div[@id='notify-open-modal']/button&quot;));</find>
+      <find>WebElement NotifyMeBut</find>
+      <find>cssselec</find>
+      <find>CSSse</find>
+      <find>regionnumber</find>
+      <find>csssele</find>
+      <find>main</find>
+      <find>close</find>
+      <find>news</find>
+      <find>valorEmailInput</find>
+      <find>tousqfr</find>
+      <find>80034</find>
+      <find>method</find>
+      <find>prod</find>
+      <find>503</find>
+      <find>String args</find>
+      <find>error</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/qwerty.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Test1911.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/teste.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/test12345.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TousURLS.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Tous_1528.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Tous_932.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Tous_1526.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Tous_896.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Tous_897.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Tous_926.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/CreateVouchers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/hmcCreateVouchers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TestThings.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/ClasificarPor2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Tous_859.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Tous_1838.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Checkout.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Checkout/TestTwoCheckout.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Checkout/CheckoutMethods.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TestCheckoutAll.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TuDiaTous.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/Tous_892.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TestAll.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/UseForTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TestRegister.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TestLogIn.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TestEmails.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TestLiterals.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TousLoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/PricesPostalFills.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TestMethods.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TestCheckout.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/seidor/TestVerifyLinks.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="285" />
+    <option name="y" value="-955" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testTous" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTous" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testTous" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTous" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testTous" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTous" type="462c0819:PsiDirectoryNode" />
+              <item name="drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testTous" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTous" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testTous" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTous" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testTous" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTous" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testTous" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTous" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testTous" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTous" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seidor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/TousProject" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.42988506" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pmogort\IdeaProjects\testTous\drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestVerifyLinks.everything">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+    </configuration>
+    <configuration name="TestCheckout.paymentAyden" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.seidor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="es.seidor" />
+      <option name="MAIN_CLASS_NAME" value="es.seidor.TestCheckout" />
+      <option name="METHOD_NAME" value="paymentAyden" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TestCheckout.testCheckoutAll" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.seidor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="es.seidor" />
+      <option name="MAIN_CLASS_NAME" value="es.seidor.TestCheckout" />
+      <option name="METHOD_NAME" value="testCheckoutAll" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TestVerifyLinks.everything" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.seidor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="es.seidor" />
+      <option name="MAIN_CLASS_NAME" value="es.seidor.TestVerifyLinks" />
+      <option name="METHOD_NAME" value="everything" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tous_892.tous_892co" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.seidor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="es.seidor" />
+      <option name="MAIN_CLASS_NAME" value="es.seidor.Tous_892" />
+      <option name="METHOD_NAME" value="tous_892co" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="UseForTest.sdads" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.seidor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="es.seidor" />
+      <option name="MAIN_CLASS_NAME" value="es.seidor.UseForTest" />
+      <option name="METHOD_NAME" value="sdads" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestCheckout.paymentAyden" />
+      <item itemvalue="TestNG.TestCheckout.testCheckoutAll" />
+      <item itemvalue="TestNG.Tous_892.tous_892co" />
+      <item itemvalue="TestNG.UseForTest.sdads" />
+      <item itemvalue="TestNG.TestVerifyLinks.everything" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestVerifyLinks.everything" />
+        <item itemvalue="TestNG.TestCheckout.paymentAyden" />
+        <item itemvalue="TestNG.TestCheckout.testCheckoutAll" />
+        <item itemvalue="TestNG.UseForTest.sdads" />
+        <item itemvalue="TestNG.Tous_892.tous_892co" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1cc97b8-fd4e-43d5-a5f4-c001090e4b99" name="Default" comment="" />
+      <created>1528877162788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528877162788</updated>
+      <workItem from="1528975264983" duration="828000" />
+      <workItem from="1529332956524" duration="82000" />
+      <workItem from="1529333116211" duration="475000" />
+      <workItem from="1529333624406" duration="2246000" />
+      <workItem from="1529393155026" duration="21630000" />
+      <workItem from="1529479543813" duration="5017000" />
+      <workItem from="1530700012533" duration="139000" />
+      <workItem from="1531407361819" duration="1575000" />
+      <workItem from="1531922511403" duration="191000" />
+      <workItem from="1531935078031" duration="21000" />
+      <workItem from="1531935424312" duration="960000" />
+      <workItem from="1531945756673" duration="5586000" />
+      <workItem from="1532016768331" duration="146000" />
+      <workItem from="1532016987989" duration="511000" />
+      <workItem from="1532425656324" duration="166000" />
+      <workItem from="1532425976923" duration="16000" />
+      <workItem from="1532426036940" duration="9000" />
+      <workItem from="1532426146790" duration="44000" />
+      <workItem from="1532431649701" duration="196000" />
+      <workItem from="1532448987738" duration="20000" />
+      <workItem from="1532963925218" duration="24000" />
+      <workItem from="1533650345619" duration="3024000" />
+      <workItem from="1533653655844" duration="784000" />
+      <workItem from="1533712506589" duration="185000" />
+      <workItem from="1533713019482" duration="2503000" />
+      <workItem from="1533715580037" duration="155000" />
+      <workItem from="1533715873391" duration="120000" />
+      <workItem from="1533716134153" duration="3830000" />
+      <workItem from="1533723759490" duration="13181000" />
+      <workItem from="1533798536244" duration="11523000" />
+      <workItem from="1533814831032" duration="16000" />
+      <workItem from="1533815520665" duration="765000" />
+      <workItem from="1533822713251" duration="1107000" />
+      <workItem from="1534752058498" duration="86000" />
+      <workItem from="1534752424531" duration="21917000" />
+      <workItem from="1534842784738" duration="851000" />
+      <workItem from="1534953494490" duration="600000" />
+      <workItem from="1534954143123" duration="789000" />
+      <workItem from="1535014265146" duration="8468000" />
+      <workItem from="1535031972144" duration="1173000" />
+      <workItem from="1535033672020" duration="19000" />
+      <workItem from="1535033858664" duration="3628000" />
+      <workItem from="1535037663925" duration="224000" />
+      <workItem from="1535037927897" duration="6000" />
+      <workItem from="1535038071967" duration="25000" />
+      <workItem from="1535038164786" duration="368000" />
+      <workItem from="1535351756845" duration="390000" />
+      <workItem from="1535531938076" duration="1560000" />
+      <workItem from="1535549537576" duration="871000" />
+      <workItem from="1535615240007" duration="1832000" />
+      <workItem from="1535701882145" duration="602000" />
+      <workItem from="1536059566187" duration="309000" />
+      <workItem from="1536060029475" duration="160000" />
+      <workItem from="1536060214934" duration="948000" />
+      <workItem from="1536061453054" duration="9964000" />
+      <workItem from="1536073108738" duration="136000" />
+      <workItem from="1536131076654" duration="7503000" />
+      <workItem from="1536146666616" duration="659000" />
+      <workItem from="1536161296970" duration="3218000" />
+      <workItem from="1536217558183" duration="2700000" />
+      <workItem from="1536307159411" duration="632000" />
+      <workItem from="1536658879665" duration="3032000" />
+      <workItem from="1536817517943" duration="7626000" />
+      <workItem from="1537170483635" duration="11598000" />
+      <workItem from="1537186665225" duration="1274000" />
+      <workItem from="1537188013695" duration="8668000" />
+      <workItem from="1537254885152" duration="4030000" />
+      <workItem from="1537365164925" duration="317000" />
+      <workItem from="1537427925223" duration="795000" />
+      <workItem from="1537779841993" duration="12000" />
+      <workItem from="1537794207702" duration="250000" />
+      <workItem from="1537867030944" duration="3433000" />
+      <workItem from="1537942264422" duration="1139000" />
+      <workItem from="1537949379896" duration="2437000" />
+      <workItem from="1538046907397" duration="792000" />
+      <workItem from="1538120681043" duration="830000" />
+      <workItem from="1538569927807" duration="681000" />
+      <workItem from="1538643397678" duration="4854000" />
+      <workItem from="1538722737337" duration="777000" />
+      <workItem from="1538724171106" duration="2058000" />
+      <workItem from="1538934793421" duration="67000" />
+      <workItem from="1538945251879" duration="278000" />
+      <workItem from="1538984494074" duration="44000" />
+      <workItem from="1538987894941" duration="364000" />
+      <workItem from="1538988546855" duration="80000" />
+      <workItem from="1538989142741" duration="1775000" />
+      <workItem from="1538993440068" duration="1973000" />
+      <workItem from="1539009605944" duration="897000" />
+      <workItem from="1539011057119" duration="82000" />
+      <workItem from="1539594171354" duration="3427000" />
+      <workItem from="1539597692494" duration="5195000" />
+      <workItem from="1539616715403" duration="1598000" />
+      <workItem from="1539679268300" duration="888000" />
+      <workItem from="1539699474030" duration="4521000" />
+      <workItem from="1539768366966" duration="3535000" />
+      <workItem from="1540201546670" duration="4999000" />
+      <workItem from="1540543256506" duration="7339000" />
+      <workItem from="1541406587710" duration="18306000" />
+      <workItem from="1541429651526" duration="3667000" />
+      <workItem from="1541491537605" duration="8165000" />
+      <workItem from="1541502629881" duration="21876000" />
+      <workItem from="1541579237226" duration="3111000" />
+      <workItem from="1541673207465" duration="2977000" />
+      <workItem from="1541759774246" duration="1791000" />
+      <workItem from="1542015642958" duration="1581000" />
+      <workItem from="1542271360366" duration="1622000" />
+      <workItem from="1542618117043" duration="11563000" />
+      <workItem from="1543932092592" duration="125000" />
+      <workItem from="1544178609908" duration="1239000" />
+      <workItem from="1544412228071" duration="131000" />
+      <workItem from="1544429865133" duration="21391000" />
+      <workItem from="1544518118157" duration="8039000" />
+      <workItem from="1544527059354" duration="5330000" />
+      <workItem from="1545035393568" duration="18448000" />
+      <workItem from="1545395824502" duration="5000" />
+      <workItem from="1546935065438" duration="44000" />
+      <workItem from="1546935205757" duration="7911000" />
+      <workItem from="1546948999702" duration="3459000" />
+      <workItem from="1547135085135" duration="769000" />
+      <workItem from="1547204104695" duration="3293000" />
+      <workItem from="1547714044004" duration="3141000" />
+      <workItem from="1548243888600" duration="1285000" />
+      <workItem from="1548317802745" duration="6580000" />
+      <workItem from="1548351016038" duration="77000" />
+      <workItem from="1548676185212" duration="241000" />
+      <workItem from="1548926168628" duration="2017000" />
+      <workItem from="1549274265223" duration="5760000" />
+      <workItem from="1549874532757" duration="46000" />
+      <workItem from="1549874701629" duration="20000" />
+      <workItem from="1549874846383" duration="28000" />
+      <workItem from="1549874964275" duration="67000" />
+      <workItem from="1549875340254" duration="32000" />
+      <workItem from="1550156246795" duration="58000" />
+      <workItem from="1550834318413" duration="20000" />
+      <workItem from="1551684621596" duration="64000" />
+      <workItem from="1553503107045" duration="30000" />
+      <workItem from="1553503210352" duration="5000" />
+      <workItem from="1554879446510" duration="2383000" />
+      <workItem from="1554882053367" duration="11376000" />
+      <workItem from="1554905908091" duration="2874000" />
+      <workItem from="1554973489539" duration="13476000" />
+      <workItem from="1555055016044" duration="7152000" />
+      <workItem from="1555314101423" duration="24725000" />
+      <workItem from="1555398670892" duration="4250000" />
+      <workItem from="1555406926307" duration="2846000" />
+      <workItem from="1555409853743" duration="160000" />
+      <workItem from="1555410055035" duration="13918000" />
+      <workItem from="1555435527412" duration="867000" />
+      <workItem from="1555485648885" duration="1392000" />
+      <workItem from="1555582749506" duration="14004000" />
+      <workItem from="1556022380087" duration="5720000" />
+      <workItem from="1556096549519" duration="772000" />
+      <workItem from="1556175577947" duration="4141000" />
+      <workItem from="1556187242433" duration="2592000" />
+      <workItem from="1556278251019" duration="2067000" />
+      <workItem from="1556616897458" duration="10291000" />
+      <workItem from="1556874757737" duration="9944000" />
+      <workItem from="1557127005933" duration="5104000" />
+      <workItem from="1557221236988" duration="1964000" />
+      <workItem from="1557323270634" duration="1683000" />
+      <workItem from="1557409603474" duration="1793000" />
+      <workItem from="1557476507984" duration="1343000" />
+      <workItem from="1557742163616" duration="3528000" />
+      <workItem from="1557817953638" duration="2704000" />
+      <workItem from="1557828670299" duration="3084000" />
+      <workItem from="1557912876749" duration="12420000" />
+      <workItem from="1558004864530" duration="1415000" />
+      <workItem from="1558095434720" duration="1866000" />
+      <workItem from="1558338598440" duration="708000" />
+      <workItem from="1558348725919" duration="8128000" />
+      <workItem from="1558424347669" duration="5387000" />
+      <workItem from="1558448003365" duration="1297000" />
+      <workItem from="1558520943315" duration="2564000" />
+      <workItem from="1559141659874" duration="299000" />
+      <workItem from="1559199859876" duration="13937000" />
+      <workItem from="1559288691434" duration="2841000" />
+      <workItem from="1559571474327" duration="1358000" />
+      <workItem from="1559649708248" duration="996000" />
+      <workItem from="1559716653823" duration="1915000" />
+      <workItem from="1559724993619" duration="3598000" />
+      <workItem from="1559743630964" duration="4541000" />
+      <workItem from="1560760544931" duration="1149000" />
+      <workItem from="1560771015982" duration="398000" />
+      <workItem from="1560774037849" duration="9000" />
+      <workItem from="1560775251004" duration="603000" />
+      <workItem from="1560779132616" duration="769000" />
+      <workItem from="1560846353501" duration="9000" />
+      <workItem from="1561023662651" duration="1725000" />
+      <workItem from="1561027551049" duration="149000" />
+      <workItem from="1561029135898" duration="3459000" />
+      <workItem from="1561039391668" duration="1128000" />
+      <workItem from="1561041141783" duration="415000" />
+      <workItem from="1561111270240" duration="2971000" />
+      <workItem from="1561458057827" duration="554000" />
+      <workItem from="1561484507024" duration="55000" />
+      <workItem from="1561707524540" duration="181000" />
+      <workItem from="1561707754710" duration="3368000" />
+      <workItem from="1561713870329" duration="153000" />
+      <workItem from="1561714069523" duration="212000" />
+      <workItem from="1561715797714" duration="58000" />
+      <workItem from="1561720573909" duration="194000" />
+      <workItem from="1562234821014" duration="5386000" />
+      <workItem from="1562840697573" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestCheckout_paymentAyden - 2019.06.28 at 09h 48m 47s.xml">
+      <configuration name="TestCheckout.paymentAyden" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCheckout_paymentAyden - 2019.06.28 at 09h 50m 11s.xml">
+      <configuration name="TestCheckout.paymentAyden" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCheckout_paymentAyden - 2019.06.28 at 09h 55m 53s.xml">
+      <configuration name="TestCheckout.paymentAyden" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCheckout_paymentAyden - 2019.06.28 at 11h 11m 47s.xml">
+      <configuration name="TestCheckout.paymentAyden" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCheckout_paymentAyden - 2019.06.28 at 11h 16m 27s.xml">
+      <configuration name="TestCheckout.paymentAyden" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCheckout_paymentAyden - 2019.06.28 at 11h 18m 45s.xml">
+      <configuration name="TestCheckout.paymentAyden" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCheckout_paymentAyden - 2019.06.28 at 11h 19m 26s.xml">
+      <configuration name="TestCheckout.paymentAyden" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestVerifyLinks_everything - 2019.07.04 at 12h 16m 24s.xml">
+      <configuration name="TestVerifyLinks.everything" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestVerifyLinks_everything - 2019.07.04 at 12h 55m 04s.xml">
+      <configuration name="TestVerifyLinks.everything" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestVerifyLinks_everything - 2019.07.04 at 13h 25m 26s.xml">
+      <configuration name="TestVerifyLinks.everything" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="645169000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="-1088" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005208" side_tool="true" weight="0.37619555" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.62274176" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11302083" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="bottom" id="Hybris Console [Experimental]" order="12" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39638683" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49895832" weight="0.3060574" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32943013" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.17853348" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="84" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>webDriver.findElements(By.className(&quot;link-box&quot;)).get(0).findElement(By.tagName(&quot;strong&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>webDriver.findElements(By.className(&quot;link-box&quot;)).get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>webDriver.findElements(By.className(&quot;link-box&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>webDriver.findElement(By.cssSelector(&quot;a strong&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>webDriver.findElements(By.cssSelector(&quot;a strong&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>webDriver.findElement(By.cssSelector(&quot;a strong&quot;)).getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>webDriver.findElement(By.id(&quot;js-link-box-es&quot;)).getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>webDriver.findElement(By.cssSelector(&quot;a[href='//es.wikipedia.org/']&quot;)).getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>webDriver.findElement(By.cssSelector(&quot;a[href='//es.wikipedia.org/']&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testTous.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TousLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="14" lean-forward="true" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testTous.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TousLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testTous.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TousLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testTous.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TousLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testTous.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TousLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="36" lean-forward="true" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/qwerty.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.12.0/selenium-api-3.12.0.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testTous.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/Test1911.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/teste.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/es/seidor/TousLoginTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-554" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TousURLS.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/Tous_1526.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestThings.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/hmcCreateVouchers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/Checkout/CheckoutMethods.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestCheckoutAll.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TuDiaTous.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2244" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/Tous_1526.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestAll.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/UseForTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/Tous_896.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/Tous_932.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/Tous_897.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/Tous_926.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/Tous_859.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/Tous_892.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestEmails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="32" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestLogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/Tous_1838.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/Filtro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestLiterals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/PricesPostalFills.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TousLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="79" column="69" selection-start-line="79" selection-start-column="69" selection-end-line="79" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2771">
+          <caret line="171" column="47" selection-start-line="171" selection-start-column="47" selection-end-line="171" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestCheckout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/seidor/TestVerifyLinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="18" column="115" selection-start-line="18" selection-start-column="115" selection-end-line="18" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.13.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
