@@ -3,6 +3,7 @@ package prac.es.seidor;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.util.List;
@@ -47,7 +48,7 @@ public class practice_30 extends practice_base{
         //logout
         webDriver.findElement(By.className("caret")).click();
         webDriver.findElement(By.name("logout")).click();
-        pause(3);
-
+        Assert.assertEquals(webDriver.getCurrentUrl().contains("https://automationpub.com"),true);
+        pause(10);
     }
 }
