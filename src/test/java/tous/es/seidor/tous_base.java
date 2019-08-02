@@ -1,5 +1,6 @@
 package tous.es.seidor;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -34,4 +35,11 @@ public class tous_base {
     public void javascripexecutormethod(WebElement a){
         JavascriptExecutor js = (JavascriptExecutor)webDriver;
         js.executeScript("arguments[0].click();", a); }
+
+    public void scrollGuess(WebElement s){
+        JavascriptExecutor scrollGuess = (JavascriptExecutor) webDriver;
+        //This will scroll the page till the element is found
+        scrollGuess.executeScript("arguments[0].scrollIntoView();", s);
+
+    }
 }
