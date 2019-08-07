@@ -1,4 +1,4 @@
-package tous.es.seidor;
+package wiki.es.seidor;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class tous_006 extends tous_base{
+public class wiki_006 extends wiki_base {
     @Test
     public void test6(){
         // 1. Go to homepage.

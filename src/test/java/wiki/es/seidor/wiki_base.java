@@ -1,4 +1,4 @@
-package tous.es.seidor;
+package wiki.es.seidor;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -9,7 +9,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import java.util.concurrent.TimeUnit;
 
-public class tous_base {
+public class wiki_base {
     public WebDriver webDriver;
 
     @BeforeTest

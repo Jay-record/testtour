@@ -1,14 +1,13 @@
-package tous.es.seidor;
+package wiki.es.seidor;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-import java.util.ArrayList;
 import java.util.List;
 
-public class tous_005 extends tous_base{
+public class wiki_005 extends wiki_base {
     @Test
     public void test5(){
         // 1. Go to homepage. & Click on one category.

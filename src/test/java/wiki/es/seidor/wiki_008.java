@@ -1,4 +1,4 @@
-package tous.es.seidor;
+package wiki.es.seidor;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-public class tous_008 extends tous_base{
+public class wiki_008 extends wiki_base {
     @Test
     public void test8(){
         String baseUrl = "https://www.tous.com/us-en";
